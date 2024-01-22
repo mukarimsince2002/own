@@ -25,8 +25,8 @@
 }
 .search_box{
     width: 500px;
-    padding: 10px;
     margin-top: 10px;
+    padding: 10px;
     float: left;
 }
 .search_btn{
@@ -57,5 +57,11 @@
 }
 .user-menu ul li a{
     text-decoration: none;
-    color:white
+    color:white;
+    display: block;
+}
+.user-menu button{
+    color: #fff;
+    height: 40px;
+    line-height: 30px;
 }
