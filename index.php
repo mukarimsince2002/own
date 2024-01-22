@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">    
     <link rel="stylesheet" href="css/owl.theme.default.min.css">   
-        <link rel="stylesheet" href="css/jquery.bxslider.min.css"> 
+    <link rel="stylesheet" href="css/jquery.bxslider.min.css"> 
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
@@ -29,7 +29,7 @@
             <!-- user menu-->
             <div class="user-menu">
                 <ul>
-                    <li><a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-user "></i>My Account</a>
+                    <li><a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-hospopup="true" aria-expaded="false"><i class="fas fa-user "></i>My Account</a>
                     <!--dropdown box-->
                     <div class="dropdown-menu dropdown-menu-right bg-dark" style="width: 250px;">
                         <a href="#"><button type="button" class="dropdown-item"><i class="fas fa-user "></i>&nbsp; your account</button></a>
